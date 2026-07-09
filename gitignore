@@ -1,8 +1,9 @@
-*.pdf
-*.db
-.env
-__pycache__/
-*.pyc
-*.pyo
-data/
 reports/
+data/
+*.db
+*.pdf
+*.png
+*.pyc
+__pycache__/
+.env
+logo.png
