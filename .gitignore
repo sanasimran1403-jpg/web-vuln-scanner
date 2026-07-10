@@ -1,9 +1,0 @@
-reports/
-data/
-*.db
-*.pdf
-*.png
-*.pyc
-__pycache__/
-.env
-logo.png
